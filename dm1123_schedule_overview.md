@@ -47,7 +47,7 @@
     <tr>
         <td>6</td>
         <td><a href="weekly_detail/dm1123_weekly_detail_wk06.md">TUESDAY(!) Oct 13<br><strong>LOGO 2nd Draft (Group B)</strong></a></td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk06.md">Oct 14<br><strong>Guest Lecture/Logo Show and Tells</strong></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk06.md">Oct 14<br><strong>TBD</strong></td>
     </tr>
     <tr>
         <td>7</td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td>8</td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk08.md">Oct 26<br><strong>ADD CLASS HERE</strong>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk08.md">Oct 26<br><strong>Screening</strong>
         	</a></td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk08.md">Oct 28<br><strong>ADD CLASS HERE</strong>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk08.md">Oct 28<br><strong>PHYSICAL APPLICATION intro</strong>
 </a></td>
     </tr>
     <tr>
