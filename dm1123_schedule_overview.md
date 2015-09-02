@@ -26,7 +26,7 @@
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk02.md">Sept 14<br><strong>Components: Color</strong></a><br><strong>_Note: Sept 15 is the deadline for dropping classes without a "W." After this deadline, a dropped class is considered a withdrawal and will result in a “W” grade on a student's record_</strong></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk02.md">Sept 14<br><strong>Components: Color</strong></a><br><strong><em>Note: Sept 15 is the deadline for dropping classes without a "W." After this deadline, a dropped class is considered a withdrawal and will result in a “W” grade on a student's record</em></strong></td>
         <td><a href="weekly_detail/dm1123_weekly_detail_wk02.md">Sept 16<br><strong>Components: Type</strong></a></td>
     </tr>
     <tr>
