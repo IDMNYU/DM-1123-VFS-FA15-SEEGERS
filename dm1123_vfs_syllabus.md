@@ -1,6 +1,6 @@
 # DM-UY 1123 Visual Foundation Studio
 
-![NYU](nyu_soe_logo.png)
+![NYU](projects/nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
     Jesse Seegers • jts329@nyu.edu • Fall 2015 
@@ -10,7 +10,7 @@
     Prerequisites: None
    
 ###Github Repository: 
-* https://github.com/jesseseegers/DM1123-VFS-SP15
+* https://github.com/IDMNYU/DM-1123-VFS-FA15-SEEGERS
 
 ---
 
