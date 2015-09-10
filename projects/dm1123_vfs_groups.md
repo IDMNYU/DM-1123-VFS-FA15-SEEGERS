@@ -13,13 +13,27 @@
 
 **Group A**
 
-* * 
+* Matthew Gitlin
+* Melissa Lopez
+* James Chen
+* Francis Yang
+* Jane Xu
+* Joon Hee Choi
+* Leah Fong
+* Matthew Lecca
 
 
 
 **Group B**
 
-* 
+* Kihyun Kim
+* Sharah Lee
+* Yuening Bai
+* Nathan Mierski
+* Jim Reah
+* Grace Lee
+* Wenyao Tang
+* Matthew Garrison
 * 
 
 
