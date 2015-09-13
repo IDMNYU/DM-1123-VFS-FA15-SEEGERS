@@ -85,9 +85,10 @@
 <tr>
   <td valign="top">do</td>
   <td valign="top">
-  Future Bio: Write a 200-400 word bio of yourself in 30 years.	Think about: <ul><li>the kinds of work you will have completed </li><li> collaborations with other people </li><li> Do you have a specialty? </li><li> have you won any awards? If so, which ones? </li><li> Who are your clients? </li><li> Have you had exhibitions of your work? </li><li> Has it been published anywhere, in magazines, blogs, etc.? </li>
-</ul></td>
+  </td>
   <td valign="top">
+  Future Bio: Write a 200-400 word bio of yourself in 30 years.	Think about: <ul><li>the kinds of work you will have completed </li><li> collaborations with other people </li><li> Do you have a specialty? </li><li> have you won any awards? If so, which ones? </li><li> Who are your clients? </li><li> Have you had exhibitions of your work? </li><li> Has it been published anywhere, in magazines, blogs, etc.? </li>
+</ul>
   <li><a href="../class_exercises/dm1123_class_exercise_color.md">Class Exercise: Color</a> as homework</li></ul>
   <ul><li><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
   <ul>
