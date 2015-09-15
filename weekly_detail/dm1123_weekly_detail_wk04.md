@@ -33,7 +33,9 @@
   <li>Discuss homework for next class</li>
   <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
-      <li>Josef Müller-Brockmann: Group 5</li>
+      <li>Tibor Kalman (image) - Francis Yang and Jane Xu</li>
+      
+<li>David Carson (type & image) Matt Gitlin and Leah Fong</li>
     </ul>
   
    <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to Leave</a></li>
@@ -44,10 +46,6 @@
     <ul>
     
     <li>Finalize <a href="../projects/dm1123_vfs_show_and_tells.md">Logo Show and Tell</a> Partners</li>
-    <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
-    <ul>
-      <li>Tibor Kalman: Group 6</li>
-    </ul>
     <li>Respond to selected tickets to leave</li>
     <ul>
     <li>How Do You Create Your Own Typefaces? 

@@ -25,8 +25,11 @@
 <!-- class -->
 <tr>
   <td valign="top" width="4%">class</td>
-  <td valign="top" width="48%"> <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due: Andy Warhol: Group 3</li>
-  <br><strong>Gestalt Lecture</strong><br><br>
+  <td valign="top" width="48%"> 
+  
+  <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due: </li>
+<ul>  <li>Chip Kidd (book jackets) - Ki Hyun Kim and Peter Kim </li>
+<li>Josef Muller-Brockman (composition) - Nathan Mierski and Melissa Lopez</li><br></ul>
 
   <strong>Illustrator Demo</strong>
   <ul>
@@ -38,7 +41,11 @@
   Introduce Project 1: Logo
   </td>
   <td valign="top" width="48%"> 
-  <li>Aleksander Rodchenko: Group 4</li>
+  <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due: </li>
+  <ul><li>Shepard Fairey (semiotics) - Joon Hee Choi</li>
+  <li>
+Peter Saville (music / punk aesthetic) Matt Lecca and Matt Garrison</li>
+<li>Andy Warhol (image) - Yuening Bai and Jim Rhea</li></ul>
 <br>
   <li>Logos Lecture:</li>
       <ul>

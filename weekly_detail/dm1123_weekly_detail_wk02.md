@@ -49,8 +49,8 @@
     </ul>
            <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
-      <li>Chip Kidd: <em>Group 1</em> </li>
-      <li>Peter Saville: Group 2</li>
+      <li>Aleksander Rodchenko (composition & photography) - Wenyao Tang and James Chen</li>
+<li>Barbara Krueger (type & image) Grace Lee and Sharah Lee</li>
     </ul>
   </td>
 </tr>
