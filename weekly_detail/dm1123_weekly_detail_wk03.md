@@ -84,7 +84,7 @@ Peter Saville (music / punk aesthetic) Matt Lecca and Matt Garrison</li>
 <tr>
   <td valign="top">do</td>
   <td valign="top">
-  <strong>Do <a href="../class_exercises/dm1123_class_exercise_typefaces.md">Class Exercise: Typefaces</a></strong> as homework.</strong> <br><br>
+  <strong>Do   <a href="../class_exercises/dm1123_class_exercise_color.md">Class Exercise: Color</a> as homework <br><br>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
   <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
@@ -92,7 +92,9 @@ Peter Saville (music / punk aesthetic) Matt Lecca and Matt Garrison</li>
   <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</li>
   <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
   </ul></td>
-  <td valign="top">
+  <td valign="top"><strong>
+  Do <a href="../class_exercises/dm1123_class_exercise_typefaces.md">Class Exercise: Typefaces</a></strong> as homework.</strong>
+  <br><br>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</td>
 </tr>
 </table>
