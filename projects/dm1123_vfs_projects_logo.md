@@ -24,11 +24,11 @@ Create a logo for your selected brand in Adobe Illustrator.
   * New Post -> Add Media -> Create Gallery
   * (OPTIONAL NOT REQUIRED)lightbox functionality via wordpress lightbox plugin of your choice
 * Category: logo1
-* Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of what your logo is for to your wordpress post
-* **At least 10 different versions of logo** iterations of your selected brand **ALL drawn by hand in pen**
-* One logo per 8 1/2 x 11 (letter) dimensions for a total of at least 20 images
-  * A big version vs. a tiny version (a little bigger than postage size) in the corner
-* To comprise your different versions, play around with creating <a href="http://www.logodesignsource.com/types.html" target="_blank">icons/symbols, logotypes, and/or combination logos</a>
+* Add the name of your brand, along with a very brief description (1 to 2 sentences max) of what your logo is for
+* At least 10 different versions of logo iterations of your selected brand ALL drawn by hand in pen
+* One logo per 8 1/2 x 11 (letter) dimensions for a total of at least 10 pages
+* A big version vs. a tiny version (a little bigger than postage size) in the corner
+* To comprise your different versions, play around with creating icons/symbols, logotypes, and/or combination logos
 * It could also be a redesign of an existing logo. If so, please post the original logo as well
 
 #### LOGO 2nd Draft  
