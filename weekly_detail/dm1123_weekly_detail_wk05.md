@@ -13,8 +13,8 @@
 <table>
 <tr>
 <td>wk</td>
-<td>Tuesdays (due on date listed)</td>
-<td>Thursdays (due on date listed)</td>
+<td>Mondays (due on date listed)</td>
+<td>Wednesdays (due on date listed)</td>
 </tr>
 <!-- dates -->
 <tr>
@@ -51,13 +51,6 @@
   <li>05: Icons &amp; Logotypes</li>
   </ul></td>
   <td valign="top">
-  <strong>Graphic Design: The New Basics</strong>
-  <ul>
-  <li>Point, Line, Plane</li>
-  <li>Texture</li>
-  <li>Transparency</li>
-  <li>Modularity</li>
-  </ul>
   
 </td>
 </tr>
