@@ -13,8 +13,8 @@
 <table>
 <tr>
 <td>wk</td>
-<td>NOTE: WEDNESDAY (due on date listed)</td>
-<td>Thursdays (due on date listed)</td>
+<td>NOTE: TUESDAY (due on date listed)</td>
+<td>Wednesday (due on date listed)</td>
 </tr>
 <!-- dates -->
 <tr>
@@ -43,7 +43,14 @@
   <td valign="top">
   <ul>
  <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">LOGO 1st Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Group B)</a></li>
- <li><a href="../projects/dm1123_vfs_reading_responses.md">Reading Response</a> for <a href="http://justcreative.com/2008/05/03/logo-design-tips-process-jeff-fisher-interview/"> Logo Design Tips &amp; A Not-So-Ordinary Interview with Logo Designer, Jeff Fisher</a></li>
+ <li><a href="../projects/dm1123_vfs_reading_responses.md">Reading:
+ <strong>Graphic Design: The New Basics</strong>
+  <ul>
+  <li>Point, Line, Plane</li>
+  <li>Texture</li>
+  <li>Transparency</li>
+  <li>Modularity</li>
+  </ul></li>
   </ul>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
