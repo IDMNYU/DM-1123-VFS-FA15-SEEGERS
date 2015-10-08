@@ -16,25 +16,24 @@
 * Matthew Gitlin
 * Melissa Lopez
 * James Chen
-* Francis Yang
 * Jane Xu
-* Joon Hee Choi
 * Leah Fong
 * Matthew Lecca
-
+* Peter Kim
+* Yuening Bai
+* Nathan Mierski
 
 
 **Group B**
 
-* Kihyun Kim
+* Ki Hyun Kim
 * Sharah Lee
-* Yuening Bai
-* Nathan Mierski
-* Jim Reah
 * Grace Lee
 * Wenyao Tang
 * Matthew Garrison
-* 
+* Joon Hee Choi
+* Francis Yang
+* Aite Eboigbe
 
 
 
